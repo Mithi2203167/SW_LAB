@@ -8,7 +8,7 @@ int add(int a, int b)
 
 int main()
 {
-    cout << "Hello, World!" << endl;
+    cout << "Hello from Conflict Branch!" << endl;
     cout << "5 + 7 = " << add(5, 7) << endl;
 
     return 0;
